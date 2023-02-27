@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  font-size: 1.8vw;
+  padding: 7px 24px;
+  border: 1px solid #fff;
+  border-radius: 7px;
+  background-color: rgba(0,0,0,0);
+  color: #fff;
+}
+
+button:hover {
+  background-color: rgba(255,255,255,0.15);
+}
+
+button:active {
+  background-color: rgba(255,255,255,0.3);
+}
