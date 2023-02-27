@@ -1,4 +1,4 @@
-#React With Ethereum
+React With Ethereum
 
 This is a basic React.js application that allows users to connect to an Ethereum wallet and sign a welcome message. If the user is already connected, their name or ENS (Ethereum Name Service) will be displayed.
 
